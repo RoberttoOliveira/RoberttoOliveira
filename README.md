@@ -3,11 +3,6 @@
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
 </div>
 
-
-###
-
-<h3 align="left">👩‍💻  Sobre mim </h3>
-
 ###
 
 <br>- 🔭 atualmente, trabalho como analista de suporte, onde sou responsável por fornecer assistência técnica e resolver problemas dos usuários. Paralelamente, estou me aprofundando no estudo de bancos de dados e suas ferramentas, para aprimorar minhas habilidades e expandir minhas competêcias na área de TI

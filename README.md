@@ -3,17 +3,15 @@
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre mim </h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<br>- 🔭 atualmente, trabalho como analista de suporte, onde sou responsável por fornecer assistência técnica e resolver problemas dos usuários. Paralelamente, estou me aprofundando no estudo de bancos de dados e suas ferramentas, para aprimorar minhas habilidades e expandir minhas competêcias na área de TI
+<br>- 📚 Atualmente, estou me dedicando ao estudo de bancos de dados. como foco em PostgreSQL, SQL e MySQL. Estou aprendendo sobre suas funcionalidades, comandos, e melhores práticas, visando melhorar minhas habilidades em gestão e análise de dados.<br>
 
 ###
 

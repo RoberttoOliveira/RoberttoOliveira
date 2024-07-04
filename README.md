@@ -5,8 +5,8 @@
 
 ###
 
-<br>- 🔭 atualmente, trabalho como analista de suporte, onde sou responsável por fornecer assistência técnica e resolver problemas dos usuários. Paralelamente, estou me aprofundando no estudo de bancos de dados e suas ferramentas, para aprimorar minhas habilidades e expandir minhas competêcias na área de TI
-<br>- 📚 Atualmente, estou me dedicando ao estudo de bancos de dados. como foco em PostgreSQL, SQL e MySQL. Estou aprendendo sobre suas funcionalidades, comandos, e melhores práticas, visando melhorar minhas habilidades em gestão e análise de dados.<br>
+<br> 🔭 atualmente, trabalho como analista de suporte, onde sou responsável por fornecer assistência técnica e resolver problemas dos usuários. Paralelamente, estou me aprofundando no estudo de bancos de dados e suas ferramentas, para aprimorar minhas habilidades e expandir minhas competêcias na área de TI
+<br> 📚 Atualmente, estou me dedicando ao estudo de bancos de dados. como foco em PostgreSQL, SQL e MySQL. Estou aprendendo sobre suas funcionalidades, comandos, e melhores práticas, visando melhorar minhas habilidades em gestão e análise de dados.<br>
 
 ###
 
